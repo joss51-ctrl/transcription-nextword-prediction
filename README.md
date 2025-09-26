@@ -20,8 +20,10 @@ One of the main challenges in transcription systems is achieving high accuracy, 
 * Result: GPT-Small performs slightly better than GPT-Neo-125M; therefore, GPT-Small is used in the final app
 
 # Installation
-git clone https://github.com/your-username/transcription-nextword-prediction.git
+https://github.com/joss51-ctrl/transcription-nextword-prediction.git
 cd transcription-nextword-prediction
+
+Pre-trained models (GPT-Small and Whisper-base) are stored on Google Drive on .txt files containing the download links.
 
 # Install dependencies
 pip install -r requirements.txt
