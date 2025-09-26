@@ -21,6 +21,7 @@ One of the main challenges in transcription systems is achieving high accuracy, 
 
 # Installation
 https://github.com/joss51-ctrl/transcription-nextword-prediction.git
+
 cd transcription-nextword-prediction
 
 Pre-trained models (GPT-Small and Whisper-base) are stored on Google Drive on .txt files containing the download links.
